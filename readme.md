@@ -39,7 +39,7 @@ Follow these steps to get your AI Health Assistant running locally and connected
 
 1.  **Clone the Code:** Open your terminal or command prompt and run:
     ```bash
-    git clone https://github.com/ShreeNathX/WhatsApp-HealthCare-Bot
+    git clone https://github.com/Suraj110905/WhatsApp-HealthCare-Bot
     cd whatsapp-healthcare-bot
     ```
 
