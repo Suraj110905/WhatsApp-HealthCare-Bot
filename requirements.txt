@@ -1,0 +1,7 @@
+flask
+openai>=1.0.0
+python-dotenv
+twilio
+requests
+langdetect
+backoff
